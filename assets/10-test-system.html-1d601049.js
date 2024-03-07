@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b05774a6","path":"/English/passage/2023/08/10-test-system.html","title":"Railway test system","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1691637748000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":1}]},"filePathRelative":"English/passage/2023/08/10-test-system.md"}');export{t as data};
