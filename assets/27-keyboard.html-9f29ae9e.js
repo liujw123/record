@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-cefae5c8","path":"/English/passage/2023/06/27-keyboard.html","title":"Computer Keyboard","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1687859285000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":1}]},"filePathRelative":"English/passage/2023/06/27-keyboard.md"}');export{e as data};

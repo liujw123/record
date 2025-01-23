@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-23db2878","path":"/English/word/week.html","title":"Week","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1686713918000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":1}]},"filePathRelative":"English/word/week.md"}');export{e as data};
