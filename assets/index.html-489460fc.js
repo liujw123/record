@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as o,b as e,d as r}from"./app-736689a9.js";const s={},a=e("h1",{id:"english-word",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#english-word","aria-hidden":"true"},"#"),r(" English Word")],-1),c=[a];function d(i,_){return n(),o("div",null,c)}const l=t(s,[["render",d],["__file","index.html.vue"]]);export{l as default};
