@@ -1,0 +1,1 @@
+const s=JSON.parse('{"key":"v-61dda92c","path":"/English/passage/2023/09/05-mars-mission.html","title":"Mars mission test","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1693994193000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":2}]},"filePathRelative":"English/passage/2023/09/05-mars-mission.md"}');export{s as data};
