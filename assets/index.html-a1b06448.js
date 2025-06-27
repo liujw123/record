@@ -1,0 +1,1 @@
+import{_ as n,o as t,c as o,b as e,d as s}from"./app-88dddb09.js";const a={},c=e("h1",{id:"english-konwledge",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#english-konwledge","aria-hidden":"true"},"#"),s(" English konwledge")],-1),d=[c];function r(i,l){return t(),o("div",null,d)}const h=n(a,[["render",r],["__file","index.html.vue"]]);export{h as default};
