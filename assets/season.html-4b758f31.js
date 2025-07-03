@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ae253bae","path":"/English/word/season.html","title":"Season","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1686909636000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":3}]},"filePathRelative":"English/word/season.md"}');export{e as data};
