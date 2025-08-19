@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6bea0f31","path":"/English/passage/2023/11/30-live-to-100.html","title":"Why Do Some People Live to 100 ？","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1701358622000,"contributors":[{"name":"liujw","email":"liujw155@outlook.com","commits":1}]},"filePathRelative":"English/passage/2023/11/30-live-to-100.md"}');export{e as data};
