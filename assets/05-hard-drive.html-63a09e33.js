@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-b51ab68a","path":"/English/passage/2023/06/05-hard-drive.html","title":"hard drive","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1688461322000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":1}]},"filePathRelative":"English/passage/2023/06/05-hard-drive.md"}');export{a as data};

@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as o,d as e}from"./app-a6eacc5a.js";const c={},s=e("p",null,[e("strong",null,"软件笔记、使用笔记、日常笔记等...")],-1),_=[s];function l(r,a){return n(),o("div",null,_)}const i=t(c,[["render",l],["__file","index.html.vue"]]);export{i as default};

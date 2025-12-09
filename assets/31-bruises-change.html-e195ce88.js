@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-54b6707e","path":"/English/passage/2023/12/31-bruises-change.html","title":"Why Do Bruises Change Color ?","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1703993597000,"contributors":[{"name":"liujw","email":"liujw155@outlook.com","commits":1}]},"filePathRelative":"English/passage/2023/12/31-bruises-change.md"}');export{e as data};

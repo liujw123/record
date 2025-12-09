@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-46b5de22","path":"/English/knowledge/wordType/","title":"Word Type  | 词性","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1690192820000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":3}]},"filePathRelative":"English/knowledge/wordType/README.md"}');export{e as data};

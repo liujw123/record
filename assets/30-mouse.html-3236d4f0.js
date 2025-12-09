@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bd853e9c","path":"/English/passage/2023/06/30-mouse.html","title":"mouse","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1688118244000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":2}]},"filePathRelative":"English/passage/2023/06/30-mouse.md"}');export{e as data};

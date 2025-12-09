@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-923c4864","path":"/English/passage/2023/07/04-windows.html","title":"Windows","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1688461322000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":1}]},"filePathRelative":"English/passage/2023/07/04-windows.md"}');export{t as data};

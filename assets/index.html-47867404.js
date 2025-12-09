@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-c5999180","path":"/English/grammar/","title":"English Grammar","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1763110282000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":1}]},"filePathRelative":"English/grammar/README.md"}');export{a as data};

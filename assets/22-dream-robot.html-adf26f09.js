@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6db62916","path":"/English/passage/2023/08/22-dream-robot.html","title":"Dream Robot","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1692694729000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":1}]},"filePathRelative":"English/passage/2023/08/22-dream-robot.md"}');export{t as data};

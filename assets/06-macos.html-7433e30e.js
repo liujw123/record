@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-3871499c","path":"/English/passage/2023/07/06-macos.html","title":"macOS","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1688724071000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":2}]},"filePathRelative":"English/passage/2023/07/06-macos.md"}');export{a as data};

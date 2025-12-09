@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e5e49648","path":"/English/passage/2023/11/02-noise-color.html","title":"Can Noise Have Color?","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1698938616000,"contributors":[{"name":"liujw","email":"liujw155@outlook.com","commits":1}]},"filePathRelative":"English/passage/2023/11/02-noise-color.md"}');export{e as data};

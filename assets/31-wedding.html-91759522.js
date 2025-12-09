@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3edf84fa","path":"/English/passage/2023/07/31-wedding.html","title":"Different Weddings","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1691049383000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":3}]},"filePathRelative":"English/passage/2023/07/31-wedding.md"}');export{e as data};

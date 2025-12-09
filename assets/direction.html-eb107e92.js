@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-788ed587","path":"/English/word/direction.html","title":"Direction","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1686909636000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":2}]},"filePathRelative":"English/word/direction.md"}');export{t as data};

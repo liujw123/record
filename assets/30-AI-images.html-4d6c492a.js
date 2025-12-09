@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-0ca7d774","path":"/English/passage/2024/01/30-AI-images.html","title":"AI Imgaes","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1706608763000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":1}]},"filePathRelative":"English/passage/2024/01/30-AI-images.md"}');export{a as data};

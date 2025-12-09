@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-cb520b02","path":"/English/passage/2023/08/08-garden-pests.html","title":"Garden Pests","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1691637748000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":2}]},"filePathRelative":"English/passage/2023/08/08-garden-pests.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7a1ce1a6","path":"/English/word/month.html","title":"Month","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1686909636000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":3}]},"filePathRelative":"English/word/month.md"}');export{t as data};

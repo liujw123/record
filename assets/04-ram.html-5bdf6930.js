@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-973ad6dc","path":"/English/passage/2023/06/04-ram.html","title":"RAM","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1688624552000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":1}]},"filePathRelative":"English/passage/2023/06/04-ram.md"}');export{a as data};

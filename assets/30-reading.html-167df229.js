@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-5a0a29aa","path":"/English/passage/2023/05/30-reading.html","title":"The Benefits of Reading","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1688973027000,"contributors":[{"name":"liujw155@outlook.com","email":"liujw155@outlook.com","commits":1}]},"filePathRelative":"English/passage/2023/05/30-reading.md"}');export{a as data};

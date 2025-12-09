@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as t,d as e,e as n}from"./app-a6eacc5a.js";const s={},c=e("h1",{id:"english-grammar",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#english-grammar","aria-hidden":"true"},"#"),n(" English Grammar")],-1),o=[c];function d(i,_){return r(),t("div",null,o)}const l=a(s,[["render",d],["__file","index.html.vue"]]);export{l as default};
